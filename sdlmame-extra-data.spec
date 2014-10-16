@@ -1,6 +1,6 @@
 Name:		sdlmame-extra-data
 Version:	0.145
-Release:	%mkrel 1
+Release:	2
 Summary:	More data files for SDL MAME front-ends
 License:	Freeware
 Group:		Emulators
