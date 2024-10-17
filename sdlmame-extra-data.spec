@@ -4,7 +4,7 @@ Release:	3
 Summary:	More data files for SDL MAME front-ends
 License:	Freeware
 Group:		Emulators
-URL:		http://mameworld.info/
+URL:		https://mameworld.info/
 
 # Cheats (XML format)
 Source1:	http://cheat.retrogames.com/download/cheat0145.zip
